@@ -4,7 +4,7 @@ This is a simple HTTP/3 server using
 [hypercorn](https://pgjones.gitlab.io/hypercorn/)
 and [bareASGI](https://github.com/rob-blackbourn/bareASGI).
 
-I ran this on Ubuntu 20.04 LTS with Python 3.8.
+I ran this on Ubuntu 20.04 LTS with Python 3.8 on 2020-12-05.
 
 You will need a signed certificate and private key. There are instructions
 for this [here](https://github.com/rob-blackbourn/ssl-certs).
